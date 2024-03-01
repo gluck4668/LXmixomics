@@ -1,0 +1,12 @@
+Package: LXmixomics
+Type: Package
+Title: LXmixomics
+Version: 2024.01
+Author: Dr.Lin
+Maintainer: Dr.Lin <gluck4668@sina.com>
+Description: LXmixomics can be used to syntheticall analyze transcriptomics, proteomics and metabolomics.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
